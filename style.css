@@ -1,0 +1,26 @@
+body {
+    background-color: wheat;
+    border: 1px solid;
+}
+  
+h1 {
+    color: black;
+}
+  
+label {
+    display: block;
+    margin-bottom: 15px;
+    color: black;
+}
+  
+button {
+    padding: 10px 10px;
+    font-size: 16px;
+    background-color: black;
+    color: white;
+}
+  
+button:hover {
+    background-color: white;
+    color: black;
+}

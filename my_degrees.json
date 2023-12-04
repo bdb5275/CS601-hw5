@@ -1,0 +1,22 @@
+{
+  "degrees": [
+    {
+      "school": "Pennsylvania State University",
+      "program": "Hospitality Management",
+      "type": "BS",
+      "yearConferred": "2018/12/31"
+    },
+    {
+      "school": "Pennsylvania State University",
+      "program": "Corporate Finance",
+      "type": "MS",
+      "yearConferred": "2020/05/31"
+    },
+    {
+      "school": "Boston University",
+      "program": "Master in Software Development",
+      "type": "MS",
+      "yearConferred": "2023/12/31"
+    }
+  ]
+}
